@@ -1,0 +1,13 @@
+{
+    "hl7_server": {
+        "host": "10.160.81.11",
+        "port": 55121
+    },
+    "file_paths": {
+        "input_folder": "input",
+        "output_folder": "output",
+        "input_file": "input.hl7",
+        "output_file": "output.txt",
+        "parsed_output_file": "HL7outputParsed.txt"
+    }
+}
